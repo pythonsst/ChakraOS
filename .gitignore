@@ -1,0 +1,26 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build files
+out/
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Compiled source files
+*.class
+*.o
+*.so
+*.a
+*.apk
+
+# Android Studio/IDE files
+.idea/
+.gradle/
+local.properties
+*.iml
+
+# Secrets
+*.keystore
